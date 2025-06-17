@@ -1,5 +1,4 @@
-# snoekphish
-# 🛡️ UDS Phishing Detector Project
+# 🛡️ UDS Phishing Detector Project - snoekphish
 
 Welcome to the official project for the **UDS Cyber Security Division Phishing Detector**. This project aims to build a smart, privacy-conscious **phishing detection browser extension** powered by a hybrid detection engine (rule-based and ML).  
 
